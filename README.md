@@ -1,1 +1,1 @@
-
+👋 Hi! I'm Nikola from Croatia 🇭🇷, a computer science student with a passion for software development. I'm a hungry learner, always experimenting and building as I work toward becoming a skilled developer.
