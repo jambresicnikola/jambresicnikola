@@ -1,41 +1,6 @@
-# 👋 Hello, I'm Nikola!
+# About me
 
-### 🚀 About Me
-I'm a **Computer Science student** at the University of Applied Sciences in Zagreb. Passionate about coding, learning, and turning ideas into reality.
+I am Nikola, a Computer Science student at Zagreb University of Applied Sciences (TVZ). My main interests are web and software development.
+I enjoy writing efficient and well-structured code while expanding my knowledge in modern development practices.  
 
-- 🌍 Based in Zagreb, Croatia
-- 🎓 Currently mastering algorithms, software design, and problem-solving
-- 🖥️ Enthusiastic about building efficient and elegant solutions
-
----
-
-### 💻 Technologies & Skills
-
-#### Languages:
-- **Java**
-- **C++**
-- **HTML & CSS**
-- **JavaScript**
-- **SQL**
-
-#### Tools:
-- Git & GitHub
-- Visual Studio & IntelliJ IDEA
-
-#### Interests:
-- Software Development
-- Web Development
-- Databases
-
----
-
-### 🌟 Fun Fact
-In my free time, I enjoy doing sports, especially **street workout** and **fitness** overall.
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/nikola-jambre%C5%A1i%C4%87-404942338/
-- **Email:** nikolajambresic8@gmail.com
-
-Thanks for stopping by! 😄
+Feel free to check out my repositories to see my work.
