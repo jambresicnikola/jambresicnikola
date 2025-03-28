@@ -1,6 +1,7 @@
 # About me
 
-Hi, I’m Nikola, a Computer Science student at Zagreb University of Applied Sciences (TVZ) with a passion for software development. I enjoy learning modern development practices and building projects. 
+Hi, I’m Nikola, a Computer Science student at Zagreb University of Applied Sciences (TVZ) with a passion for software development.
+I enjoy learning modern development practices and building projects. 
 
 Check out my repositories to see what I’ve been working on!
 
